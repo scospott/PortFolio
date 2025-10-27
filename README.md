@@ -1,5 +1,5 @@
-[repo publique sur mon compte: ](https://github.com/scospott/PortFolio)  
-lien publique déployé: https://scospott.github.io/PortFolio/
+[repo publique sur mon compte](https://github.com/scospott/PortFolio)  
+[lien publique déployé](https://scospott.github.io/PortFolio/)
 #Scott THOMAS — Portfolio
 
 > **“Turning data into meaning, and ideas into digital experiences.”**
