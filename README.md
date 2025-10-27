@@ -26,7 +26,7 @@ I am currently **looking for a 2-year apprenticeship (starting January 2026)** i
 
 ---
 
-## 💼 Professional Values
+## Professional Values
 
 - Efficiency & organization — learned through high-paced work in restaurants  
 -  Curiosity — I never stop learning and asking “why?”  
@@ -42,12 +42,11 @@ I am currently **looking for a 2-year apprenticeship (starting January 2026)** i
 |-----------|-------|
 | **Languages** | Python, JavaScript,R, JAVA, HTML, PHP, SQL |
 | **Web** | React, TailwindCSS |
-| **Tools** | Git, VS Code, Jupyter, Docker |
-| **Design / Others** | Figma, Canva |
+| **Tools** | Git, VS Code, Jupyter |
 
 ---
 
-## 💻 Portfolio Preview
+## Portfolio Preview
 
 ### Terminal-Style Portfolio
 A futuristic hacker-themed interface blending:
@@ -65,7 +64,6 @@ A futuristic hacker-themed interface blending:
 ##  Contact
 
 -  Based in Rennes, France  
--  [thomasscott.dev@gmail.com](mailto:thomasscott.dev@gmail.com)  
 - [LinkedIn](https://www.linkedin.com/in/yourlinkedin/)  
 - [Portfolio Website](https://your-portfolio-link.com)
 
@@ -75,4 +73,4 @@ A futuristic hacker-themed interface blending:
 > — **Scott Thomas**
 
 ---
-*Built with passion, TailwindCSS, and a few late-night coffees ☕*
+*Built with passion, TailwindCSS, and a few late-night coffees *
