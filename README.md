@@ -1,4 +1,4 @@
-repo publique sur mon compte: [GitHub Repository]([(https://github.com/scospott/PortFolio)])
+[repo publique sur mon compte: ](https://github.com/scospott/PortFolio)  
 lien publique déployé: https://scospott.github.io/PortFolio/
 #Scott THOMAS — Portfolio
 
