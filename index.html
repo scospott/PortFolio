@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Scott Thomas</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <script
+        src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp,container-queries"></script>
+
+</head>
+
+<body class="bg-[#0E0E12]">
+    <header>
+        <nav class="fixed top-6 inset-x-0 flex justify-center z-50">
+            <div
+                class="bg-[#16161C] text-[#00FF9C] font-mono rounded-full px-10 py-3 flex space-x-10 items-center border border-[#00FF9C]/30 shadow-[0_0_20px_#00FF9C30] backdrop-blur-md transition-all duration-300">
+
+                <a href="index.html"
+                    class="relative text-lg tracking-wider text-white border-b border-[#00FF9C] pb-1 shadow-[0_0_10px_#00FF9C] group">
+                    ~/home
+                    <span class="absolute opacity-0 group-hover:opacity-100 text-[#00FF9C] animate-blink ml-1">_</span>
+                </a>
+
+                <a href="aboutme.html"
+                    class="relative text-lg tracking-wider hover:text-white transition-all duration-300 group">
+                    ~/resume
+                    <span class="absolute opacity-100 text-[#00FF9C] animate-blink ml-1">_</span>
+                </a>
+                <a href="project.html"
+                    class="relative text-lg tracking-wider hover:text-white transition-all duration-300 group">
+                    ~/project
+                    <span class="absolute opacity-0 group-hover:opacity-100 text-[#00FF9C] animate-blink ml-1">_</span>
+                </a>
+                <a href="contact.html"
+                    class="relative text-lg tracking-wider hover:text-white transition-all duration-300 group">
+                    ~/contact
+                    <span class="absolute opacity-0 group-hover:opacity-100 text-[#00FF9C] animate-blink ml-1">_</span>
+                </a>
+            </div>
+        </nav>
+    </header>
+
+    <style>
+        @keyframes blink {
+
+            0%,
+            50%,
+            100% {
+                opacity: 1;
+            }
+
+            25%,
+            75% {
+                opacity: 0;
+            }
+        }
+
+        .animate-blink {
+            animation: blink 1s infinite;
+        }
+    </style>
+    <main class="bg-[#0E0E12] text-gray-300 pt-50 font-mono flex justify-center">
+        <div
+            class="max-w-6xl w-full flex flex-col md:flex-row items-center md:items-start space-y-10 md:space-y-0 md:space-x-16 px-6">
+            <img src="photopro.JPG" alt="Scott Thomas"
+                class="w-72 h-72 rounded-full object-cover border-2 border-[#00FF9C] shadow-[0_0_25px_#00FF9C] ">
+
+            <!-- Texte à droite -->
+            <div class="flex flex-col space-y-4 text-left">
+                <p class="text-[#00FF9C] text-xl md:text-2xl">> Hello, I’m <span class="font-bold">Scott THOMAS</span><span class="font-bold animate-blink">_</span>
+                </p>
+                <p class="text-gray-300 text-base md:text-lg">
+                    I am passionate about <span class="text-[#00FF9C]">AI</span> and especially <span
+                        class="text-[#00FF9C]">data science</span>
+                    and data manipulation. I recently graduated from a <span class="text-[#00FF9C]">MIASHS License</span> degree
+                    (Applied Mathematics & Computer Science for Social Sciences, Data Science & Digital Engineering
+                    track) at
+                    <span class="text-[#00FF9C]">University of Rennes</span> and just started my <span
+                        class="text-[#00FF9C]">pre-MSC</span> at
+                    <span class="text-[#00FF9C]">Epitech Rennes</span>.
+                </p>
+                <p class="text-gray-300 text-base md:text-lg">
+                    I am currently looking for a <span class="text-[#00FF9C]">33-month apprenticeship</span> in tech,
+                    ideally in
+                    <span class="text-[#00FF9C]">data science</span>, starting January, with a <span
+                        class="text-[#00FF9C]">2-weeks school / 4-weeks company</span> schedule.
+                </p>
+
+                <p class="text-[#00FF9C] text-xl md:text-2xl">> Let’s build the future together...<span class="font-bold animate-blink">_</span></p>
+            </div>
+        </div>
+    </main>
+
+    <br><br><br><br><br><br>
+    <footer class="bg-[#0E0E12] text-gray-300 py-10 font-mono">
+        <div
+            class="max-w-6xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center space-y-6 md:space-y-0">
+
+            <div class="text-center md:text-left">
+                <a href="CvFinal.pdf" download
+                    class="inline-flex items-center bg-[#00FF9C] text-black font-semibold px-6 py-3 rounded-full shadow-[0_0_15px_#00FF9C] hover:shadow-[0_0_25px_#00FF9C] hover:bg-[#00e68c] transition-all duration-300 group">
+                    <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg">
+                        <path stroke-linecap="round" stroke-linejoin="round"
+                            d="M4 16v2a2 2 0 002 2h12a2 2 0 002-2v-2M12 12v8m0 0l-4-4m4 4l4-4M12 4v8"></path>
+                    </svg>
+                    My resume
+                    <span class="ml-1 animate-blink">_</span>
+                </a>
+            </div>
+
+            <div class="text-center md:text-left">
+                <h3 class="text-[#00FF9C] font-semibold text-lg mb-3 ">Links</h3>
+                <div class="flex flex-col space-y-2 md:space-y-1">
+                    <a href="https://github.com/scospott"
+                        class="hover:text-[#00e68c] transition-colors duration-300 relative group">
+                        GitHub
+                        <span class="absolute opacity-0 group-hover:opacity-100 animate-blink ml-1">_</span>
+                    </a>
+                    <a href="https://www.linkedin.com/in/scott-thomas-834710383/"
+                        class="hover:text-[#00e68c] transition-colors duration-300 relative group">
+                        LinkedIn
+                        <span class="absolute opacity-0 group-hover:opacity-100 animate-blink ml-1">_</span>
+                    </a>
+                </div>
+            </div>
+
+            <div class="flex flex-col items-center md:items-start">
+                <img src="logo12.png" alt="Logo"
+                    class="w-20 h-20 rounded-full mx-auto md:mx-0 mb-3 shadow-[0_0_10px_#00FF9C] transition-all hover:shadow-[0_0_25px_#00FF9C] ">
+            </div>
+        </div>
+
+        <div class="border-t border-[#00FF9C]/30 mt-8 pt-4 text-center text-sm text-gray-400">
+            © 2025 Scott THOMAS. All rights reserved.
+        </div>
+
+        <style>
+            @keyframes blink {
+
+                0%,
+                50%,
+                100% {
+                    opacity: 1;
+                }
+
+                25%,
+                75% {
+                    opacity: 0;
+                }
+            }
+
+            .animate-blink {
+                animation: blink 1s infinite;
+            }
+
+            @keyframes blink-slow {
+
+                0%,
+                50%,
+                100% {
+                    opacity: 1;
+                }
+
+                25%,
+                75% {
+                    opacity: 0;
+                }
+            }
+
+            .animate-blink-slow {
+                animation: blink-slow 2s infinite;
+            }
+        </style>
+    </footer>
+
+</body>
+
+
+
+</html>
