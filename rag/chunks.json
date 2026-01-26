@@ -1,0 +1,387 @@
+[
+  {
+    "id": "about_001",
+    "text": "- Prénom: Scott \n- nom: Thomas \n- age : 23 ans",
+    "source_file": "about.md",
+    "section_title": "Profil",
+    "type": "about"
+  },
+  {
+    "id": "about_002",
+    "text": "Je suis actuellement en formation Pré-Master of Science en informatique à Epitech Rennes, avec une orientation data et intelligence artificielle.",
+    "source_file": "about.md",
+    "section_title": "Situation actuelle",
+    "type": "about"
+  },
+  {
+    "id": "about_003",
+    "text": "Après le baccalauréat, j’ai suivi une licence MIASHS à l’Université de Rennes, parcours SDIN (Sciences des Données et Ingénierie Numérique).  \nCette formation m’a permis d’acquérir des bases solides en statistiques inférentielles, probabilités, optimisation et algorithmique.",
+    "source_file": "about.md",
+    "section_title": "Parcours académique",
+    "type": "about"
+  },
+  {
+    "id": "about_004",
+    "text": "Au cours de la licence, j’ai travaillé sur :\n- programmation (POO, algorithmique),\n- manipulation de bases de données relationnelles et non relationnelles,\n- visualisation de données,\n- initiation au machine learning avec PyTorch.",
+    "source_file": "about.md",
+    "section_title": "Compétences académiques acquises",
+    "type": "about"
+  },
+  {
+    "id": "about_005",
+    "text": "Je prépare actuellement un Master of Science en informatique à Epitech Rennes.  \nLe diplôme visé est un titre RNCP niveau 7 (Bac +5) d’Expert en Management des Systèmes d’Information.  \nLa période de formation s’étend de septembre 2025 à août 2028.",
+    "source_file": "about.md",
+    "section_title": "Formation actuelle et diplôme visé",
+    "type": "about"
+  },
+  {
+    "id": "about_006",
+    "text": "À partir du Master 1, je prévois de me spécialiser en intelligence artificielle et big data.",
+    "source_file": "about.md",
+    "section_title": "Spécialisation prévue",
+    "type": "about"
+  },
+  {
+    "id": "about_007",
+    "text": "Je recherche une alternance orientée développement full-stack, data science ou intelligence artificielle.  \nLe domaine applicatif importe peu, à condition que les missions soient techniques et formatrices.",
+    "source_file": "about.md",
+    "section_title": "Objectif professionnel",
+    "type": "about"
+  },
+  {
+    "id": "about_008",
+    "text": "À court terme, je souhaite consolider mes bases en développement web et en intelligence artificielle théorique.  \nÀ moyen terme, je souhaite travailler sur des projets intégrant des modèles d’IA en production.  \nÀ long terme, mon objectif est de devenir développeur spécialisé en intelligence artificielle.",
+    "source_file": "about.md",
+    "section_title": "Évolution professionnelle souhaitée",
+    "type": "about"
+  },
+  {
+    "id": "about_009",
+    "text": "Mon intérêt pour l’IA et la data est lié à la compréhension des mécanismes sous-jacents aux modèles et aux systèmes intelligents.  \nJe souhaite comprendre comment les modèles sont conçus, entraînés et intégrés dans des applications concrètes.",
+    "source_file": "about.md",
+    "section_title": "Intérêt pour l’IA et la data",
+    "type": "about"
+  },
+  {
+    "id": "about_010",
+    "text": "Je souhaite approfondir :\n- le fonctionnement des réseaux de neurones,\n- la conception et l’entraînement de modèles IA,\n- l’intégration de solutions IA au service de besoins métiers.",
+    "source_file": "about.md",
+    "section_title": "Axes d’apprentissage prioritaires",
+    "type": "about"
+  },
+  {
+    "id": "about_011",
+    "text": "Je recherche une alternance sous contrat d’apprentissage.  \nJe suis disponible immédiatement.  \nJe privilégie des opportunités en Ille-et-Vilaine, mais reste ouvert à la Bretagne et à d’autres régions selon le projet.  \nLe télétravail est accepté sans contrainte particulière.",
+    "source_file": "about.md",
+    "section_title": "Contraintes et préférences",
+    "type": "about"
+  },
+  {
+    "id": "about_012",
+    "text": "Je suis capable d’expliquer des résultats techniques à un public non technique.  \nJe travaille de manière autonome sur des projets longs.  \nJe documente et structure systématiquement mon code.",
+    "source_file": "about.md",
+    "section_title": "Compétences transverses",
+    "type": "about"
+  },
+  {
+    "id": "about_013",
+    "text": "Je ne recherche pas de postes sans lien avec la data ou l’intelligence artificielle.  \nJe ne souhaite pas de missions purement opérationnelles sans analyse ni réflexion technique.  \nJe privilégie des environnements avec encadrement et échange technique.",
+    "source_file": "about.md",
+    "section_title": "Ce que je ne recherche pas",
+    "type": "about"
+  },
+  {
+    "id": "star_014",
+    "text": "Poste de responsable de salle au sein du restaurant Ciro Trattoria à Genève, occupé durant une année de césure entre mai 2024 et août 2025.",
+    "source_file": "experience_star.md",
+    "section_title": "Situation",
+    "type": "star"
+  },
+  {
+    "id": "star_015",
+    "text": "Assurer le bon fonctionnement du service en salle et coordonner l’équipe pendant les services.  \nFormer les nouveaux employés et garantir le respect des procédures internes.",
+    "source_file": "experience_star.md",
+    "section_title": "Task",
+    "type": "star"
+  },
+  {
+    "id": "star_016",
+    "text": "Gestion opérationnelle du service en salle pendant les périodes de forte affluence.  \nFormation des nouveaux employés aux standards du restaurant.  \nSuivi des stocks et des inventaires à l’aide de tableaux de suivi.  \nOrganisation des commandes et des courses nécessaires au fonctionnement quotidien.",
+    "source_file": "experience_star.md",
+    "section_title": "Action",
+    "type": "star"
+  },
+  {
+    "id": "star_017",
+    "text": "Le service a été assuré de manière fluide malgré un rythme de travail élevé.  \nCette expérience a renforcé ma capacité à gérer des responsabilités opérationnelles, à coordonner une équipe et à maintenir un niveau de qualité constant sous contrainte de temps.",
+    "source_file": "experience_star.md",
+    "section_title": "Result",
+    "type": "star"
+  },
+  {
+    "id": "star_018",
+    "text": "Poste de barman et serveur occupé durant une période de quatre mois pendant les vacances d’été, dans un restaurant à Genève.",
+    "source_file": "experience_star.md",
+    "section_title": "Situation",
+    "type": "star"
+  },
+  {
+    "id": "star_019",
+    "text": "Assurer le service au bar et en salle tout en respectant les procédures établies par l’équipe en place.",
+    "source_file": "experience_star.md",
+    "section_title": "Task",
+    "type": "star"
+  },
+  {
+    "id": "star_020",
+    "text": "Préparation et service des boissons.  \nGestion des stocks du bar et anticipation des besoins en approvisionnement.  \nInteraction directe avec les clients pour assurer un service efficace et professionnel.",
+    "source_file": "experience_star.md",
+    "section_title": "Action",
+    "type": "star"
+  },
+  {
+    "id": "star_021",
+    "text": "Cette expérience a permis de développer des compétences en relation client et en respect des procédures opérationnelles.  \nElle a également renforcé ma capacité à travailler efficacement au sein d’une équipe hiérarchisée.",
+    "source_file": "experience_star.md",
+    "section_title": "Result",
+    "type": "star"
+  },
+  {
+    "id": "star_022",
+    "text": "Réalisation de plusieurs emplois saisonniers et missions ponctuelles pendant les vacances scolaires et universitaires en bretagne.",
+    "source_file": "experience_star.md",
+    "section_title": "Situation",
+    "type": "star"
+  },
+  {
+    "id": "star_023",
+    "text": "S’adapter rapidement à des environnements professionnels variés et assurer les missions confiées.",
+    "source_file": "experience_star.md",
+    "section_title": "Task",
+    "type": "star"
+  },
+  {
+    "id": "star_024",
+    "text": "Travail dans des contextes différents tels que le maraîchage, l’industrie, la livraison de colis et la figuration.  \nApprentissage rapide des consignes et des outils propres à chaque environnement.  \nAutonomie dans l’exécution des tâches.",
+    "source_file": "experience_star.md",
+    "section_title": "Action",
+    "type": "star"
+  },
+  {
+    "id": "star_025",
+    "text": "Ces expériences ont renforcé ma capacité d’adaptation, mon autonomie et ma polyvalence dans des contextes professionnels variés.",
+    "source_file": "experience_star.md",
+    "section_title": "Result",
+    "type": "star"
+  },
+  {
+    "id": "project_026",
+    "text": "Projet : Initiation au machine learning – Classification d’images\nProjet réalisé durant le semestre 6 de la licence MIASHS.  \nL’objectif était de découvrir les bases du machine learning appliqué à la reconnaissance d’images.",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Contexte",
+    "type": "project"
+  },
+  {
+    "id": "project_027",
+    "text": "Mettre en place un modèle capable de reconnaître un type d’image à partir d’un jeu de données fourni.",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Problème traité",
+    "type": "project"
+  },
+  {
+    "id": "project_028",
+    "text": "- Python (Jupyter Notebook)\n- PyTorch",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Stack technique",
+    "type": "project"
+  },
+  {
+    "id": "project_029",
+    "text": "Choix d’un réseau de neurones simple afin de comprendre les principes fondamentaux de l’apprentissage supervisé.  \nUtilisation de PyTorch pour la définition du modèle et l’entraînement.",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Décisions techniques",
+    "type": "project"
+  },
+  {
+    "id": "project_030",
+    "text": "Compréhension du fonctionnement interne d’un réseau de neurones.  \nGestion de l’entraînement du modèle et interprétation des résultats.",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Difficultés rencontrées",
+    "type": "project"
+  },
+  {
+    "id": "project_031",
+    "text": "Implémentation et entraînement d’un modèle de classification d’images.  \nCompréhension des étapes clés d’un pipeline de machine learning : préparation des données, entraînement et évaluation du modèle.",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Résultats et apprentissages",
+    "type": "project"
+  },
+  {
+    "id": "project_032",
+    "text": "Projet : TER – Analyse des performances des entraîneurs de football\nTravail de Recherche Encadré (TER) réalisé au semestre 6 de la licence MIASHS.  \nProjet de groupe portant sur l’analyse de données sportives.",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Contexte",
+    "type": "project"
+  },
+  {
+    "id": "project_033",
+    "text": "Analyser et comparer les performances des entraîneurs de football dans les cinq grands championnats européens.",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Problème traité",
+    "type": "project"
+  },
+  {
+    "id": "project_034",
+    "text": "- Python et R pour l’analyse\n- Données issues de FBref et Transfermarkt\n- GitHub, VS Code, RStudio",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Stack technique",
+    "type": "project"
+  },
+  {
+    "id": "project_035",
+    "text": "Répartition des tâches au sein de l’équipe.  \nOrganisation du projet et planification des étapes d’analyse.  \nChoix d’indicateurs pertinents pour évaluer les performances des entraîneurs.",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Décisions techniques",
+    "type": "project"
+  },
+  {
+    "id": "project_036",
+    "text": "Hétérogénéité des données issues de différentes sources.  \nNettoyage et structuration des données avant analyse.",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Difficultés rencontrées",
+    "type": "project"
+  },
+  {
+    "id": "project_037",
+    "text": "Analyse comparative des performances des entraîneurs sur plusieurs saisons.  \nProjet salué par les encadrants.  \nRenforcement des compétences en abstraction, manipulation et analyse de données.\n\nLien vers le projet : https://mathisdrn.github.io/head_coach_dismissal/",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Résultats et apprentissages",
+    "type": "project"
+  },
+  {
+    "id": "project_038",
+    "text": "Portfolio avec assistant IA\nProjet personnel visant à créer un portfolio technique intégrant un assistant conversationnel basé sur l’intelligence artificielle.",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Contexte",
+    "type": "project"
+  },
+  {
+    "id": "project_039",
+    "text": "Créer un frontend attractif et intégrer un assistant IA capable de répondre aux questions d’un recruteur.",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Problème traité",
+    "type": "project"
+  },
+  {
+    "id": "project_040",
+    "text": "- HTML, CSS, JavaScript\n- Tailwind CSS\n- Netlify (serverless)\n- LLM Gemini",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Stack technique",
+    "type": "project"
+  },
+  {
+    "id": "project_041",
+    "text": "Choix d’une architecture serverless afin de conserver un site statique.  \nMise en place d’une API via Netlify Functions.  \nChoix d’une architecture RAG pour fournir des réponses fiables à partir de données contrôlées.",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Décisions techniques",
+    "type": "project"
+  },
+  {
+    "id": "project_042",
+    "text": "Conception d’une interface utilisateur fonctionnelle et lisible.  \nCréation d’une API conforme à l’utilisation d’un modèle de langage.",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Difficultés rencontrées",
+    "type": "project"
+  },
+  {
+    "id": "project_043",
+    "text": "Intégration d’une architecture IA complète dans un projet web (Portfolio).  \nCompréhension des enjeux liés à l’utilisation d’un LLM dans une application réelle.",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Résultats et apprentissages",
+    "type": "project"
+  },
+  {
+    "id": "project_044",
+    "text": "Jeu 2D plateforme\nProjet réalisé à Epitech dans un délai de deux semaines.",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Contexte",
+    "type": "project"
+  },
+  {
+    "id": "project_045",
+    "text": "Développer un jeu 2D de type plateforme intégrant des mécaniques de déplacement et de gravité.",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Problème traité",
+    "type": "project"
+  },
+  {
+    "id": "project_046",
+    "text": "- Java\n- JavaFX\n- GitHub, VS Code",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Stack technique",
+    "type": "project"
+  },
+  {
+    "id": "project_047",
+    "text": "Choix du genre plateforme afin de travailler sur les notions de physique et de gravité dans un jeu vidéo.",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Décisions techniques",
+    "type": "project"
+  },
+  {
+    "id": "project_048",
+    "text": "Implémentation de la gravité, des collisions et des déplacements du joueur.  \nRésolution de bugs liés à la physique du jeu.",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Difficultés rencontrées",
+    "type": "project"
+  },
+  {
+    "id": "project_049",
+    "text": "Développement d’un jeu 2D comprenant deux niveaux et des zones intermédiaires.  \nRenforcement des compétences en programmation Java et en logique de jeu.",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Résultats et apprentissages",
+    "type": "project"
+  },
+  {
+    "id": "project_050",
+    "text": "Job Board – Application web\nProjet réalisé à Epitech dans un délai de deux semaines.",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Contexte",
+    "type": "project"
+  },
+  {
+    "id": "project_051",
+    "text": "Créer une application web complète avec un frontend, un backend et une base de données fictive sans IA (Job board).",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Problème traité",
+    "type": "project"
+  },
+  {
+    "id": "project_052",
+    "text": "- HTML, CSS, JavaScript, SQL\n- MySQL, Node.js, Sequelize\n- GitHub, VS Code",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Stack technique",
+    "type": "project"
+  },
+  {
+    "id": "project_053",
+    "text": "Choix de technologies simples et compatibles afin de comprendre l’architecture complète d’une application web (Job board).",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Décisions techniques",
+    "type": "project"
+  },
+  {
+    "id": "project_054",
+    "text": "Conception de l’architecture backend.  \nCompréhension des rôles des routes, services, modèles et contrôleurs. (job board)",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Difficultés rencontrées",
+    "type": "project"
+  },
+  {
+    "id": "project_055",
+    "text": "Application fonctionnelle avec des offres d’emploi fictives.  \nCompréhension du lien entre frontend, backend et base de données.  \nPremière mise en pratique d’une architecture backend complète.(job board )",
+    "source_file": "projects_deep_dive.md",
+    "section_title": "Résultats et apprentissages",
+    "type": "project"
+  }
+]

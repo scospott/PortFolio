@@ -1,0 +1,69 @@
+        @keyframes blink {
+
+            0%,
+            50%,
+            100% {
+                opacity: 1;
+            }
+
+            25%,
+            75% {
+                opacity: 0;
+            }
+        }
+
+        .animate-blink {
+            animation: blink 1s infinite;
+        }
+
+            @keyframes blink {
+
+                0%,
+                50%,
+                100% {
+                    opacity: 1;
+                }
+
+                25%,
+                75% {
+                    opacity: 0;
+                }
+            }
+
+            .animate-blink {
+                animation: blink 1s infinite;
+            }
+
+            @keyframes blink-slow {
+
+                0%,
+                50%,
+                100% {
+                    opacity: 1;
+                }
+
+                25%,
+                75% {
+                    opacity: 0;
+                }
+            }
+
+            .animate-blink-slow {
+                animation: blink-slow 2s infinite;
+            }
+
+
+            html, body {
+  margin: 0;
+  padding: 0;
+  background: #0E0E12;
+  height: 100%;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 50;
+}
