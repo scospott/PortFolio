@@ -40,15 +40,14 @@ const GEN_TEMPERATURE = 0.2;
 // ---------- Load index (cold start) ----------
 const INDEX_PATH = path.join(__dirname, "_data", "index.json");
 let INDEX = [];
-
 try {
-  const raw = fs.readFileSync(INDEX_PATH, "utf-8");
-  INDEX = JSON.parse(raw);
-  console.log(` Index chargé : ${INDEX.length} chunks`);
+  INDEX = require("./_data/index.json");
+  console.log(`📚 Index chargé (require) : ${INDEX.length} chunks`);
 } catch (err) {
-  console.error(" Impossible de charger rag/index.json", err);
+  console.error("❌ Impossible de charger ./_data/index.json via require()", err);
   INDEX = [];
 }
+
 
 // ---------- Utils ----------
 function json(statusCode, obj) {
