@@ -38,7 +38,7 @@ const FALLBACK_SCORE = 0.88; // high confidence threshold
 const GEN_TEMPERATURE = 0.2;
 
 // ---------- Load index (cold start) ----------
-const INDEX_PATH = path.join(process.cwd(), "rag", "index.json");
+const INDEX_PATH = path.join(__dirname, "rag", "index.json");
 let INDEX = [];
 
 try {
