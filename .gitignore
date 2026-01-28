@@ -1,0 +1,4 @@
+.env
+.toml
+# Local Netlify folder
+.netlify
