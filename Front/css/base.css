@@ -61,21 +61,26 @@
 }
 
 footer {
-  position: fixed;
-  bottom: 0;
-  left: 0;
+  position: static;   /* ou supprime entièrement la règle */
   width: 100%;
-  z-index: 50;
 }
 
+
 @media (max-width: 640px) {
-  nav .bg-\[\#16161C\] {
-    gap: 12px;            
-    padding: 10px 14px;    
+  nav a {
+    font-size: 13px;        /* plus discret */
+    letter-spacing: 0.4px; /* moins “espacé” */
   }
+}
+  nav .bg-\[\#16161C\] {
+    padding: 8px 12px;
+    gap: 10px;
+  }
+
+
 
   nav a {
     font-size: 14px;        
     letter-spacing: 0.5px;
   }
-}
+
