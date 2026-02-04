@@ -67,3 +67,15 @@ footer {
   width: 100%;
   z-index: 50;
 }
+
+@media (max-width: 640px) {
+  nav .bg-\[\#16161C\] {
+    gap: 12px;            
+    padding: 10px 14px;    
+  }
+
+  nav a {
+    font-size: 14px;        
+    letter-spacing: 0.5px;
+  }
+}
