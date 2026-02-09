@@ -295,7 +295,7 @@
   },
   {
     "id": "project_043",
-    "text": "Intégration d’une architecture IA complète dans un projet web (Portfolio).  \nCompréhension des enjeux liés à l’utilisation d’un LLM dans une application réelle.",
+    "text": "Intégration d’une architecture IA complète dans un projet web.  \nCompréhension des enjeux liés à l’utilisation d’un LLM dans une application réelle.",
     "source_file": "projects_deep_dive.md",
     "section_title": "Résultats et apprentissages",
     "type": "project"
@@ -351,7 +351,7 @@
   },
   {
     "id": "project_051",
-    "text": "Créer une application web complète avec un frontend, un backend et une base de données fictive sans IA (Job board).",
+    "text": "Créer une application web complète avec un frontend, un backend et une base de données fictive.",
     "source_file": "projects_deep_dive.md",
     "section_title": "Problème traité",
     "type": "project"
@@ -365,21 +365,21 @@
   },
   {
     "id": "project_053",
-    "text": "Choix de technologies simples et compatibles afin de comprendre l’architecture complète d’une application web (Job board).",
+    "text": "Choix de technologies simples et compatibles afin de comprendre l’architecture complète d’une application web.",
     "source_file": "projects_deep_dive.md",
     "section_title": "Décisions techniques",
     "type": "project"
   },
   {
     "id": "project_054",
-    "text": "Conception de l’architecture backend.  \nCompréhension des rôles des routes, services, modèles et contrôleurs. (job board)",
+    "text": "Conception de l’architecture backend.  \nCompréhension des rôles des routes, services, modèles et contrôleurs.",
     "source_file": "projects_deep_dive.md",
     "section_title": "Difficultés rencontrées",
     "type": "project"
   },
   {
     "id": "project_055",
-    "text": "Application fonctionnelle avec des offres d’emploi fictives.  \nCompréhension du lien entre frontend, backend et base de données.  \nPremière mise en pratique d’une architecture backend complète.(job board )",
+    "text": "Application fonctionnelle avec des offres d’emploi fictives.  \nCompréhension du lien entre frontend, backend et base de données.  \nPremière mise en pratique d’une architecture backend complète.",
     "source_file": "projects_deep_dive.md",
     "section_title": "Résultats et apprentissages",
     "type": "project"

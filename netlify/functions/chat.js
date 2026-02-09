@@ -17,7 +17,7 @@ const path = require("path");
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 
 // Models
-const EMBEDDING_MODEL = "text-embedding-004";
+const EMBEDDING_MODEL = "gemini-embedding-001";
 const GENERATION_MODEL = "gemini-2.5-flash";
 
 const EMBEDDING_URL =

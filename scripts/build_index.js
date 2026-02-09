@@ -14,7 +14,7 @@ const CHUNKS_FILE = path.join(__dirname, "..", "rag", "chunks.json");
 const OUTPUT_FILE = path.join(__dirname, "..", "rag", "index.json");
 
 // Config Gemini
-const EMBEDDING_MODEL = "text-embedding-004";
+const EMBEDDING_MODEL = "gemini-embedding-001";
 const EMBEDDING_URL =
   `https://generativelanguage.googleapis.com/v1beta/models/${EMBEDDING_MODEL}:embedContent`;
 
